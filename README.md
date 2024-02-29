@@ -2,7 +2,8 @@
 
 ### Первый запуск
 
-<img width="1792" alt="Screenshot 2024-02-28 at 23 12 39" src="https://github.com/kekuchh/android_marathon_Activity/assets/98802601/0021eb39-5fcb-4420-a1f3-fb1e72ad6aab">
+![1](https://github.com/kekuchh/android_marathon_Activity/assets/98802601/7a2c28ef-8061-4e94-b1cb-ebdc65962603)
+
 
 ```
 2024-02-28 23:10:04.314  7524-7524  MainActivity LOG        com.example.businesscard             D  onCreate
@@ -17,7 +18,8 @@
 
 ### Поворот экрана
 
-<img width="1792" alt="Screenshot 2024-02-28 at 23 15 55" src="https://github.com/kekuchh/android_marathon_Activity/assets/98802601/03cf4b6c-03c2-43c0-8e91-59805d54bb33">
+![2](https://github.com/kekuchh/android_marathon_Activity/assets/98802601/ef4613e2-c9cc-4395-b452-2f98b4b304e4)
+
 
 ```
 2024-02-28 23:15:23.748  7524-7524  MainActivity LOG        com.example.businesscard             D  onPause
@@ -32,7 +34,8 @@
 
 ### Сворачивание приложения
 
-<img width="1792" alt="Screenshot 2024-02-28 at 23 16 58" src="https://github.com/kekuchh/android_marathon_Activity/assets/98802601/e4e0ea8e-5b45-47e5-bd44-083b2104d537">
+![3](https://github.com/kekuchh/android_marathon_Activity/assets/98802601/67badc62-7224-4131-9eaa-0c5b37e4022b)
+
 
 ```
 2024-02-28 23:16:37.185  7524-7524  MainActivity LOG        com.example.businesscard             D  onPause
@@ -43,7 +46,8 @@
 
 ### При вызове finish() в onCreate()
 
-<img width="1792" alt="Screenshot 2024-02-28 at 23 20 48" src="https://github.com/kekuchh/android_marathon_Activity/assets/98802601/d3d2c314-2cbb-4d94-8745-2daa19139596">
+![4](https://github.com/kekuchh/android_marathon_Activity/assets/98802601/c1ebbdaa-0131-40af-bcb0-5c312c8329fc)
+
 
 ```
 2024-02-28 23:20:41.857  8273-8273  MainActivity LOG        com.example.businesscard             D  onCreate
